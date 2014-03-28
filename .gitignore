@@ -96,5 +96,5 @@ gen/
 
 *.iws
 
-.idea/
-grdle/
+/.idea
+/grdle
